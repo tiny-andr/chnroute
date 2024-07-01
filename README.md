@@ -1,3 +1,5 @@
+`为 DNSServer 添加 1.1.1.1 以及修改 remove 过滤项为 address-list=gfw_list`
+
 # chnroute
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) [![Daily Make and Commit](https://github.com/ruijzhan/chnroute/actions/workflows/main.yaml/badge.svg)](https://github.com/ruijzhan/chnroute/actions/workflows/main.yaml)
