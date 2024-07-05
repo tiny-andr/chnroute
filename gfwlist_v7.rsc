@@ -1,4 +1,4 @@
-:global dnsserver 1.1.1.1
+:global dnsserver 192.168.1.1
 /ip dns static remove [/ip dns static find address-list=gfw_list ]
 /ip dns static
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=000webhost.com } on-error={}
