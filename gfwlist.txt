@@ -1684,6 +1684,7 @@ f8.com
 fa.gov.tw
 facebook.br
 facebook.com
+facebook.de
 facebook.design
 facebook.hu
 facebook.in
@@ -3432,6 +3433,7 @@ merit-times.com.tw
 meshrep.com
 mesotw.com
 messenger.com
+meta.com
 metacafe.com
 metafilter.com
 metart.com
@@ -5289,6 +5291,7 @@ torrentprivacy.com
 torrentproject.se
 torrenty.org
 torrentz.eu
+tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
 totalvpn.com
