@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AJp4WsRXdjUMe5kGrCmvhg
+! Checksum: cWxSOzdwl2xdDEHDpEwKYA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 23 Mar 2025 09:48:09 +0800
+! Last Modified: Sun, 23 Mar 2025 16:14:59 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
+||coincarp.com
 ||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
@@ -841,6 +842,9 @@ bloomberg.de
 
 !!--Cloudflare--
 !--||pages.dev
+||1.1.1.1
+||1.0.0.1
+||one.one.one.one
 
 !!---CloudFront---
 ||cloudfront.net
@@ -3540,6 +3544,7 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+||gemini.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org

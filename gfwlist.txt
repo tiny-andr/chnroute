@@ -1226,6 +1226,7 @@ cofacts.tw
 coin2co.in
 coinbase.com
 coinbene.com
+coincarp.com
 coinegg.com
 coinex.com
 coingecko.com
@@ -2152,6 +2153,7 @@ geekerhome.com
 geekheart.info
 gekikame.com
 gelbooru.com
+gemini.com
 generated.photos
 genius.com
 geocities.co.jp
@@ -4121,6 +4123,7 @@ omny.fm
 on.cc
 on2.com
 onapp.com
+one.one.one.one
 onedrive.com
 onedrive.live.com
 onedumb.com
