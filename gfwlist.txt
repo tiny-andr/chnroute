@@ -1863,6 +1863,7 @@ freeoz.org
 freess.org
 freessh.us
 freetcp.com
+freeterabox.com
 freetibet.net
 freetibet.org
 freetibetanheroes.org
@@ -4526,6 +4527,7 @@ sijihuisuo.com
 silkbook.com
 silvergatebank.com
 simbolostwitter.com
+simianx.ai
 simplecd.me
 simplecd.org
 simpleproductivityblog.com
