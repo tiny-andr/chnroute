@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: aKZCp2ipsFbpFDFa4RcwHg
+! Checksum: bnngWWqQlVJ4MxGmXljmZA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 10 Aug 2026 15:55:25 +0000
+! Last Modified: Tue, 18 Aug 2026 11:57:04 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -316,6 +316,7 @@
 ||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||s3.dualstack.us-west-2.amazonaws.com
 ||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
@@ -1274,6 +1275,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||livingatlas.arcgis.com
 ||basemaps.arcgis.com
 ||experience.arcgis.com
 ||aihub.top
@@ -4144,6 +4146,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||windy.com
 ||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
