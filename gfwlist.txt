@@ -210,6 +210,7 @@ anobii.com
 anonfiles.com
 anonymouse.org
 anthonycalzadilla.com
+anthropic.auth0.com
 anthropic.com
 antiwave.net
 antpool.com
@@ -587,6 +588,7 @@ broadpressinc.com
 brookings.edu
 brutaltgp.com
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bt4g.org
@@ -812,7 +814,10 @@ ck101.com
 clashyun.com
 classicalguitarblog.net
 claude.ai
+claude.app
 claude.com
+claudemcpcontent.com
+claudeusercontent.com
 cldr.unicode.org
 clearsurance.com
 clementine-player.org
